@@ -1,26 +1,25 @@
-<div align="center" style="padding: 24px; border-radius: 16px; background: linear-gradient(135deg, #0f172a, #1f2937); color: #f9fafb; font-family: Inter, Segoe UI, Arial, sans-serif;">
-  <h1 style="margin: 0 0 8px 0; font-size: 36px;">🙋‍♂️ I'm Shikhar!</h1>
-  <p style="margin: 0 0 8px 0; font-size: 16px; opacity: 0.95;">
-    Software Engineer 2 @ Credit Suisse • GenAI Engineer • Full‑Stack Developer • Data Engineer
-  </p>
-  <p style="margin: 0; font-size: 15px; font-weight: bold; color: #facc15;">
-    🌟 Global Rank 12 (Credit Suisse Global Coding Challenge 2020)
-  </p>
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 24px; border-radius: 16px; background: linear-gradient(135deg, #0f172a, #1f2937); color: #f9fafb; font-family: Inter, Segoe UI, Arial, sans-serif;">
+  <div style="flex: 1; text-align: center;">
+    <h1 style="margin: 0 0 8px 0; font-size: 36px;">🙋‍♂️ I'm Shikhar!</h1>
+    <p style="margin: 0 0 8px 0; font-size: 16px; opacity: 0.95;">
+      Software Engineer 2 @ Credit Suisse • GenAI Engineer • Full‑Stack Developer • Data Engineer
+    </p>
+    <p style="margin: 0; font-size: 15px; font-weight: bold; color: #facc15;">
+      🌟 Global Rank 12 (Credit Suisse Global Coding Challenge 2020)
+    </p>
+  </div>
 
-  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="coding animation" height="180" style="border-radius: 12px; border: 1px solid #334155; box-shadow: 0 6px 20px rgba(0,0,0,0.35);" />
-
+  <div style="flex: 1; display: flex; justify-content: flex-end; align-items: center; gap: 20px;">
+    <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="coding animation" height="180" style="border-radius: 12px; border: 1px solid #334155; box-shadow: 0 6px 20px rgba(0,0,0,0.35);" />
+    <div style="text-align: left;">
+      <h3>📬 Contact Me</h3>
+      <p>Email: <a href="mailto:varshney9812@gmail.com" style="color:#facc15;">varshney9812@gmail.com</a></p>
+      <p><a href="https://www.linkedin.com/in/shikhar-varshney-b72638145/" style="color:#facc15;">LinkedIn</a></p>
+      <p><a href="https://www.hackerrank.com/Shikhar_8?hr_r=1" style="color:#facc15;">HackerRank</a></p>
+    </div>
+  </div>
 </div>
 
-<!-- ABOUT -->
-<div style="margin-top: 20px; padding: 20px; border-radius: 12px; background: #ffffff;">
-  <h2>💡 About me</h2>
-  <p>
-    I work across the <b>entire stack</b> — Frontend (React, Flutter), Backend (FastAPI, Spring Boot, Node.js), Data Engineering (PySpark, Databricks, Hive, SQL), and Generative AI (RAG, LLMs, Vector DBs).
-  </p>
-  <p>
-    Recognized for building enterprise‑scale systems with measurable impact, innovation, and rapid adoption across large organizations.
-  </p>
-</div>
 
 <!-- PROJECTS -->
 <div style="margin-top: 20px; padding: 20px; border-radius: 12px; background: #ffffff;">
