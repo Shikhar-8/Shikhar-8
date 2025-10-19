@@ -73,11 +73,11 @@
 <div style="margin-top: 20px; padding: 20px; border-radius: 12px; background: #ffffff;">
   <h2>📜 Certifications</h2>
   <ul>
-    <li>NVIDIA Certified: Building LLM Applications (Oct 2025)</li>
-    <li>Databricks Certified: Generative AI Associate (Oct 2025)</li>
-    <li>Microsoft Certified: Azure Developer Associate (AZ‑204) (Nov 2023)</li>
-    <li>Microsoft Certified: Azure Data Fundamentals (AZ‑900) (Nov 2023)</li>
-    <li>Oracle Cloud Infrastructure Certified Associate (July 2020)</li>
+    <li><b>NVIDIA Certified</b>: Building LLM Applications (Oct 2025)</li>
+    <li><b>Databricks Certified</b>: Generative AI Associate (Oct 2025)</li>
+    <li><b>Microsoft Certified</b>: Azure Developer Associate (AZ‑204) (Nov 2023)</li>
+    <li><b>Microsoft Certified</b>: Azure Data Fundamentals (AZ‑900) (Nov 2023)</li>
+    <li><b>Oracle Cloud </b>Infrastructure Certified Associate (July 2020)</li>
   </ul>
 </div>
 
@@ -85,19 +85,14 @@
 <div style="margin-top: 20px; padding: 20px; border-radius: 12px; background: #ffffff;">
   <h2>🏆 Awards & Recognition</h2>
   <ul>
-    <li>🥇 **Global Rank 12** — Credit Suisse Global Coding Challenge 2020</li>
-    <li>🏅 **Gold Bar Rave Recognition Award** — Credit Suisse </li>
-    <li>🏅 **Kudos Recognition Award** — Credit Suisse </li>
-    <li>🏅Firm‑wide recognition for GenAI chatbot adoption and data engineering optimizations</li>
-    <li>🏅 **HackerRank 5‑Star** in Problem Solving (DSA) </li>
-    <li>🏅 **Core Committee Member** — Credit Suisse India Initiatives </li>
+    <li>🥇 <b>Global Rank 12</b> — Credit Suisse Global Coding Challenge 2020</li>
+    <li>🏅 <b>Gold Bar Rave Recognition Award</b> — Credit Suisse </li>
+    <li>🏅 <b>Kudos Recognition Award</b> — Credit Suisse </li>
+    <li>🏅<b>Firm‑wide recognition</b> for GenAI chatbot adoption and data engineering optimizations</li>
+    <li>🏅 <b>HackerRank 5‑Star</b> in Problem Solving (DSA) </li>
+    <li>🏅 <b>Core Committee Member</b> — Credit Suisse India Initiatives </li>
   </ul>
-- 
-- 🏅 **Gold Bar Rave Recognition Award** — Credit Suisse  
-- ⭐ 
-- 🚀 Firm‑wide recognition for GenAI chatbot adoption and data engineering optimizations
-- 💻 **HackerRank 5‑Star** in Problem Solving (DSA)
-- 👥 **Core Committee Member** — Credit Suisse India E‑Cell
+
 </div>
 
 <!-- TECH STACK BADGES -->
