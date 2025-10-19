@@ -20,10 +20,10 @@
   <p>
     Recognized for building enterprise‑scale systems with measurable impact, innovation, and rapid adoption across large organizations.
   </p>
-  <h4>Contact me : </h4>  <p> shikhar98v@gmail.com  or varshney9812@gmail.com</p>
+  <h3>Contact me : </h3>  <p> shikhar98v@gmail.com    or    varshney9812@gmail.com</p>
   <h4>LinkedIn Profile</h4>
 <p>
-  Please visit my profile as I have efforts in maintaining it 
+  Please visit my profile as I have put efforts in maintaining it 
   (<a href="https://www.linkedin.com/in/shikhar-varshney-b72638145/" target="_blank" style="color:#0A66C2; font-weight:bold;">click here</a>)
 </p>
 </div>
@@ -84,9 +84,17 @@
 <!-- AWARDS -->
 <div style="margin-top: 20px; padding: 20px; border-radius: 12px; background: #ffffff;">
   <h2>🏆 Awards & Recognition</h2>
-- 🥇 **Global Rank 12** — Credit Suisse Global Coding Challenge 2020
+  <ul>
+    <li>🥇 **Global Rank 12** — Credit Suisse Global Coding Challenge 2020</li>
+    <li>🏅 **Gold Bar Rave Recognition Award** — Credit Suisse </li>
+    <li>🏅 **Kudos Recognition Award** — Credit Suisse </li>
+    <li>🏅Firm‑wide recognition for GenAI chatbot adoption and data engineering optimizations</li>
+    <li>🏅 **HackerRank 5‑Star** in Problem Solving (DSA) </li>
+    <li>🏅 **Core Committee Member** — Credit Suisse India Initiatives </li>
+  </ul>
+- 
 - 🏅 **Gold Bar Rave Recognition Award** — Credit Suisse  
-- ⭐ **Kudos Recognition Award** — Credit Suisse
+- ⭐ 
 - 🚀 Firm‑wide recognition for GenAI chatbot adoption and data engineering optimizations
 - 💻 **HackerRank 5‑Star** in Problem Solving (DSA)
 - 👥 **Core Committee Member** — Credit Suisse India E‑Cell
