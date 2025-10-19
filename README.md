@@ -2,7 +2,7 @@
 
 <p>
  <em>
-    I am a senior software Engineer with proven expirence in data engineering , front and backend technoligies with interest to build customer centric products that will help make people's life simpler.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>  
+   Software Engineer 2 @Credit Suisse | Gen AI Engineer | GLOBAL RANK 12 in Credit Suisse Global Coding Challenge 2020 | Full Stack developer | Data Engineer.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>  
  </em>
   </p>
   
@@ -10,16 +10,118 @@
 <b>About Me:</b>
 
 
-- 👨‍💻I have solved real time problems and got clear understanding <br>of concepts Data structures and Algorithms
+-🏆 Global Rank 12 in Credit Suisse Hackathon — proven innovation at scale
 
-- ⚡ I’m looking to collaborate  with people who share similar gist <br> for developing scalable applications.
-- 😄 I actively conduct coding seminars and workshops in my college.
+- GenAI Engineer and Full‑Stack Engineer with 5 years of experience.
+
+- 💼 Software Engineer at the largest Swiss bank, delivering firm‑wide AI & data solutions
+
+- 🔧 Hands‑on in Full‑Stack, Data Engineering.
+
+- 🤖 Built a GenAI chatbot adopted by teams, cutting solution‑finding time by 15%.
+
+- 🚀 Products I built achieved enterprise adoption & senior leadership recognition
+
+
+- RAG pipeline for semantic search
+ Tech: Python, OpenAI Embeddings, vector store (FAISS/Pinecone), FastAPI, Redis cache, Elasticsearch for indexing, token usage monitoring
+ Impact: +15% response accuracy; grounded domain‑specific answers
+- GenAI team chatbot
+ Tech: GPT‑4/GPT‑4o, OpenAI API, FastAPI backend, React UI, Redis caching, observability (Prometheus/Grafana), structured logging
+ Impact: Faster solution discovery; enterprise‑ready controls
+- Stress testing workflows migration
+ Tech: PySpark, Databricks (Delta), Hive, SQL, incremental processing patterns
+ Impact: −27% lead time, +29% delivery rate; +75% throughput via incrementalization
+- Credit review automation
+ Tech: Python services, SQL DB for audit, dashboard UI, ELK logging
+ Impact: −40% review time; improved consistency and compliance
+
+ - Enterprise impact: Built AI, big data, and full‑stack products adopted firm‑wide at the largest Swiss bank; recognized by senior leadership.
+- GenAI delivery: Engineered a RAG pipeline with vector search; deployed a team GenAI chatbot that improved solution‑finding efficiency by 15%.
+- Data pipelines: Migrated Excel models to PySpark/Databricks for large‑scale stress testing; −27% lead time, +29% delivery rate; +75% throughput via incrementalization.
+- Frontend/UI: Developed React dashboards for risk, resilience, and regulatory reporting with real‑time metrics, caching, and observability.
+- Full‑stack systems: Designed REST APIs, built auditing tools, and implemented rigorous logging, token usage monitoring, and cost controls for LLM apps.
+- Recognition: Secured Global Rank 12 in the Credit Suisse Hackathon; role spans GenAI Engineer, Data Engineer, and Full‑Stack.
+
+
+
+🔑 Highlights
+- 💼 Software Engineer 2 at Credit Suisse — delivering enterprise‑scale AI, Big Data, and full‑stack solutions with firm‑wide adoption
+- 🤖 GenAI Engineer — built a RAG‑driven AI chatbot with React + Python backend, vector DB integration, token monitoring, and cost optimization
+- ⚡ Full‑Stack Development — React, GraphQL, Spring Boot, Node.js, Django; built auditing tools and regulatory dashboards reducing review time by 40%
+- 📊 Data Engineering — PySpark, Databricks, Hive, SQL; optimized stress testing pipelines with +75% throughput and −27% lead time
+- 🌐 Cloud & DevOps — AWS, Azure, Oracle Cloud, Docker, CI/CD, Kafka; strong focus on observability, monitoring, and cost efficiency
+- 🚀 Hackathon & Recognition — Secured Global Rank 12 (All India Rank 7) in Credit Suisse Global Coding Challenge; multiple firm‑wide awards for innovation and delivery excellence
+- 🌟 Adaptable to emerging technologies with strong fundamentals in DSA, OOP, and system design
+
+
+
 - Contact Info= <br>
 
-  Email      :-   vrshikhar11@gmail.com <br>
+  Email      :-   varshney9812@gmail.com <br>
  
  <br><br>
-## Worked With
+🛠️ Tech Stack
+- Frontend: React, TypeScript, Material UI, Chart.js/D3
+- Backend: Python (FastAPI/Flask), Node.js/Express, REST APIs
+- Big Data: PySpark, Databricks, Hive, SQL, Spark
+- AI/LLM: OpenAI GPT‑4o/3.5, embeddings, RAG pipelines, vector stores (FAISS/Pinecone)
+- Infra/DevOps: Docker, Kubernetes, GitHub Actions/Jenkins, Kafka/RabbitMQ, Redis
+- Observability: Prometheus, Grafana, ELK stack, structured logging
+
+- 📜 Certifications
+- NVIDIA Certified: Building LLM Applications (Oct 2025)
+- Databricks Certified: Generative AI Associate (Oct 2025)
+- Microsoft Certified: Azure Developer Associate (AZ‑204) (Nov 2023)
+- Microsoft Certified: Azure Data Fundamentals (AZ‑900) (Nov 2023)
+- Oracle Cloud Infrastructure Certified Associate (July 2020)
+
+🛠️ Tech Stack
+Languages: Python, JavaScript, TypeScript, Java, SQL, Dart, C, PHP, HTML
+Frontend: React, Flutter, Bootstrap, Slate, JavaFX, Jest, ESLint, Power BI
+Backend: Node.js, Django, Spring MVC, Express.js, PySpark, GraphQL, REST APIs
+Databases: PostgreSQL, MongoDB, MySQL, MS Access
+Big Data & AI: Apache Spark, Databricks, Power BI, LLMs, RAG, Vector Databases, Palantir Cloud, DAX
+Cloud & DevOps: AWS (S3, EC2, Elastic Beanstalk, Redshift), Azure, Oracle Cloud, Docker, CI/CD, Kafka
+Tools: Git, GitHub, Bitbucket, JIRA, Postman, Swagger, VS Code, IntelliJ, Eclipse, Android Studio
+Practices: Agile, Scrum, Test‑Driven Development
+
+📂 Featured Projects
+- AI‑Powered Knowledge & DevOps Chatbot
+- React frontend + Python backend, RAG pipeline, vector DB, token monitoring
+- Improved solution‑finding efficiency by 15%; achieved firm‑wide adoption
+- Credit Risk Review Tool
+- React + GraphQL + Spring Boot; automated manual reviews
+- Reduced review time by 40%; improved decision accuracy
+- Stress Testing Pipelines
+- PySpark + Databricks + Hive + Power BI dashboards
+- Improved throughput by 75%; reduced lead time by 27%
+- iCredit Project
+- React + Spring Boot full‑stack app; reusable UI components, REST APIs
+- Improved code quality and reduced redundancy
+
+✨ This README structure makes your profile stand out:
+- Highlights → quick impact snapshot
+- Awards & Certifications → credibility
+- Tech Stack → breadth of skills
+- Projects → proof of delivery
+
+Would you like me to now reformat this into a visually striking GitHub README with badges (e.g., shields.io for tech stack, certification logos, award icons) so it looks even more professional and recruiter‑friendly?
+
+
+  🏆 Awards 
+
+- Global Rank 12 – Credit Suisse Global Hackathon (Innovation & GenAI Engineering)
+- Innovation & Delivery Excellence Award – Credit Suisse (for enterprise‑scale AI/Data solutions adopted firm‑wide)
+- Spotlight Recognition Award – Credit Suisse Technology Division (for automation and regulatory reporting tools)
+- Generative AI Engineer Recognition – Internal Enterprise Award (for building and deploying GenAI chatbot with measurable impact)
+-  Gold Bar Rave Recognition Award — Credit Suisse (for effective contribution)
+- Kudos Recognition Award — Credit Suisse (for collaboration, accountability, and delivery excellence)
+- Firm‑wide recognition for GenAI chatbot adoption and data engineering optimizations
+- Hackerrank 5‑Star in Problem Solving (DSA)
+- Core Committee Member — Credit Suisse India E‑Cell, driving innovation and upskilling initiatives
+
+
 
 <p>
 <!-- Programming Languages -->
